@@ -1,9 +1,8 @@
-[![MasterHead](https://images.unsplash.com/photo-1551288049-bebda4e38f71?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80)
+![MasterHead](https://images.unsplash.com/photo-1551288049-bebda4e38f71?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80)
 
 <h1 align="center">Hi 👋, I'm Abhishek singh</h1>
 <h3 align="center">A passionate ML Developer from India</h3>
-
-<img align="right" alt="Coding" width="400" src="https://cdn-images-1.medium.com/max/2600/0*PuscwCsUr09xZ0SJ.gif">
+<img align="right"  width="400" src="https://149695847.v2.pressablecdn.com/wp-content/uploads/2018/12/nural-network-banner.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhishek&label=Profile%20views&color=0e75b6&style=flat" alt="abhishek" /> </p>
 
